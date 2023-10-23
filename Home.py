@@ -113,6 +113,19 @@ with tab1:
         **Obtain Business Experience** in order to understand the business context and domain knowledge. 
         
         **Validate Business Hypotheses (Insights)** providing a data-driven approach to confirm or challenge what the business believes to be true. This process leads to valuable insights that may guide strategic decisions.
+
+        Hypothesis 1: Some merchants sell more than others. - Which merchant sold the most in this year?
+
+        Hypothesis 2: Some categories sell more than others based on merchant. - What are the best selling categories? Overall and by merchant.
+
+        Hypothesis 3: Products from certain brands sell more than others based on merchant. - What are the best selling brands? Overall and by merchant.
+
+        Hypothesis 4: There are some days that people tend to buy the most. - What days sell the most? What is the best day in each merchant?
+
+        Hypothesis 5: The sales are not the same throughout the months of the year. - How sales behave each month? Do they follow the same pattern for each merchant?
+
+        Hypothesis 6: The sales are distributed irregularly across the weeks. - How sales behave throughout the weeks?
+        
         """
         )
 
