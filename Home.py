@@ -54,27 +54,27 @@ sns.set_palette('rocket')
 ### Loading Data
 
 ## processed datasets 
-df              = pd.read_csv('../data/processed/price_elasticity_processed_dataset.csv')
-df_elasticity   = pd.read_csv('../data/processed/df_elasticity.csv')
-df_business     = pd.read_csv('../data/processed/business_performance.csv')
-df_cross        = pd.read_csv('../data/processed/df_cross.csv')
+df              = pd.read_csv('data/processed/price_elasticity_processed_dataset.csv')
+df_elasticity   = pd.read_csv('data/processed/df_elasticity.csv')
+df_business     = pd.read_csv('data/processed/business_performance.csv')
+df_cross        = pd.read_csv('data/processed/df_cross.csv')
 
 df_cross = df_cross.set_index('name_of_the_product')
 
 ### Images
 
-fig01    = Image.open('../images/sales_by_merchant.png')
-fig02    = Image.open('../images/sales_by_category.png')
-fig03    = Image.open('../images/categories_by_merchant.png')
-fig04    = Image.open('../images/sales_by_brand.png')
-fig05    = Image.open('../images/brands_by_merchant.png')
-fig06    = Image.open('../images/sales_by_week.png')
-fig07    = Image.open('../images/sales_by_day.png')
-fig08    = Image.open('../images/days_by_merchant.png')
-fig09    = Image.open('../images/sales_by_month.png')
-fig10    = Image.open('../images/months_by_merchant.png')
-fig12    = Image.open('../images/price_and_demand.png')
-fig13    = Image.open('../images/price_elasticity_results.png')
+fig01    = Image.open('images/sales_by_merchant.png')
+fig02    = Image.open('images/sales_by_category.png')
+fig03    = Image.open('images/categories_by_merchant.png')
+fig04    = Image.open('images/sales_by_brand.png')
+fig05    = Image.open('images/brands_by_merchant.png')
+fig06    = Image.open('images/sales_by_week.png')
+fig07    = Image.open('images/sales_by_day.png')
+fig08    = Image.open('images/days_by_merchant.png')
+fig09    = Image.open('images/sales_by_month.png')
+fig10    = Image.open('images/months_by_merchant.png')
+fig12    = Image.open('images/price_and_demand.png')
+fig13    = Image.open('images/price_elasticity_results.png')
 
 ##### 3. Streamlit App #####
 
