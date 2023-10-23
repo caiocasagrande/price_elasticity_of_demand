@@ -97,6 +97,7 @@ st.sidebar.markdown(
 )
 st.sidebar.markdown("""---""")
 st.sidebar.markdown('Powered by [Caio Casagrande](https://www.linkedin.com/in/caiopc/)')
+st.sidebar.markdown('Github [Notebook](https://github.com/caiocasagrande/price_elasticity_of_demand/blob/main/notebooks/price_elasticity.ipynb)')
 
 st.header('Price Elasticity of Demand Project')
 
