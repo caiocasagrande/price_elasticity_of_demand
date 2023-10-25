@@ -89,8 +89,8 @@ st.sidebar.markdown(
     In this fictional project, I aim to explore the price elasticity of demand for laptops and computers. 
     
     Faced with a scarcity of real-world data, my investigation delves into a hypothetical retail environment. 
-    My goal is to understand how price variations impact consumer demand for these products, despite limited data availability. 
-    My analysis employs fundamental principles of price elasticity to uncover insights that could drive strategic decision-making. 
+    The goal is to understand how price variations impact consumer demand for these products, despite limited data availability. 
+    The analysis employs fundamental principles of price elasticity to uncover insights that could drive strategic decision-making. 
     
     This project demonstrates the importance of economic modeling and data science in a fictional scenario, offering a brief look into the potential value of such analysis for businesses operating in the real world.
     """
