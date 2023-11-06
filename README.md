@@ -21,6 +21,3 @@ The analysis employs fundamental principles of price elasticity to uncover insig
 
 ### What is its importance for a company?
 This project demonstrates the importance of economic modeling and data science in a fictional scenario, offering a brief look into the potential value of such analysis for businesses operating in the real world.
-
-## Dashboard Page
-https://price-elasticity-caio-casagrande.streamlit.app/
