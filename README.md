@@ -1,5 +1,8 @@
 # Price Elasticity of Demand Project
 
+## Dashboard Page
+https://price-elasticity-caio-casagrande.streamlit.app/
+
 ## Overview 
 The dataset contains multiple data from many brands, categories and merchants, but through an exploratory data analysis it was decided that price elasticity would be calculated for the best-selling category of the merchant with the most sales made in the year.
 So, in this fictional project, I aim to explore the price elasticity of demand for laptops and computers. 
