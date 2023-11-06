@@ -1,5 +1,4 @@
 # Price Elasticity of Demand Project
-==============================
 
 ## Overview 
 The dataset contains multiple data from many brands, categories and merchants, but through an exploratory data analysis it was decided that price elasticity would be calculated for the best-selling category of the merchant with the most sales made in the year.
